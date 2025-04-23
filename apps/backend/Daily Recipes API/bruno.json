@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Daily Recipes API",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
