@@ -5,7 +5,7 @@
     "apps/*"
   ],
   "scripts": {
-   "build": "turbo run build",
+    "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
@@ -13,6 +13,7 @@
   "author": "AA",
   "packageManager": "npm@9.6.3",
   "devDependencies": {
+    "@types/node": "^22.14.1",
     "eslint": "^8.47.0",
     "prettier": "^3.0.2",
     "tsconfig": "*",

@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+
+# Git related
+.git
+.gitignore
+
+# Test files
+**/*.spec.ts
+**/*.test.ts
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-
+# IDE files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Build artifacts
+dist
+coverage
